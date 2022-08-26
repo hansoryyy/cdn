@@ -192,10 +192,6 @@ body .Notion .Tistory {
   margin-block-start: 0.6em;
 }
 
-.Notion .Tistory ul > li {
-  /* list-style: disc; */
-}
-
 .Notion .Tistory ul.to-do-list {
   text-indent: -1.7em;
 }
